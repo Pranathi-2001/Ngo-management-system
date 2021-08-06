@@ -8,7 +8,7 @@ import operator
 import tkinter.messagebox
 
 # Replace with path to loginCred folder in your system
-path = "/Users/haasitapinnepu/Desktop/NMS/loginCred"
+path = "/User/D G Pranathi/Desktop/NMS/loginCred"
 #StudList = []
 indP = path + "/IdIndex"
 
